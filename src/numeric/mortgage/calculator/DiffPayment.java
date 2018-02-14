@@ -1,5 +1,5 @@
 package numeric.mortgage.calculator;
-
+/**/
 public class DiffPayment {
     private double credit;
     private double procent;
